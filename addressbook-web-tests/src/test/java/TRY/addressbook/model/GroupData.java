@@ -1,4 +1,4 @@
-package TRY.addressbook;
+package TRY.addressbook.model;
 
 public class GroupData {
   private final String name;

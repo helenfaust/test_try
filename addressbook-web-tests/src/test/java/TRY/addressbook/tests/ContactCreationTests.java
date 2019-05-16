@@ -1,6 +1,8 @@
-package TRY.addressbook;
+package TRY.addressbook.tests;
 
 import java.util.concurrent.TimeUnit;
+
+import TRY.addressbook.model.ConactData;
 import org.testng.annotations.*;
 import static org.testng.Assert.*;
 import org.openqa.selenium.*;
